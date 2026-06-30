@@ -1,0 +1,11 @@
+streamlit>=1.45
+
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+
+matplotlib
+openpyxl
+pyarrow

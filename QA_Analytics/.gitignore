@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# Output
+output/
+reports/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Environment Variables
+.env
+.env.*
+
+# Database (jika ada)
+*.db
+*.sqlite
